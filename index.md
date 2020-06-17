@@ -11,7 +11,7 @@ layout: home
 
 Chao Huang is an Ph.D. student (Sep. 01 2019~now) at College of Aeronautics and Engineering, Kent State University, Ohio, USA. He is studying in the [Cognitive Robotics and AI lab][Cognitive Robotics and AI lab] (CRAI) for Human-Robot Interaction, Multi-agent Reinforcement Learning and Meta Learning, advised by [Prof. Rui Liu][Prof. Rui Liu]. 
 
-Advised by Prof. Jie Tian, in the [Institute of Automation, Chinese Academy of Science][Institute of Automation, Chinese Academy of Science] he received Master degree in 2019 July. Chao Huang graduated from  [BeiHang University][BeiHang University] and received his Bacheloe's degree, China, at 2016 July.  
+Advised by Prof. Jie Tian, in the [Institute of Automation, Chinese Academy of Science][Institute of Automation, Chinese Academy of Science] he received Master degree in 2019 July. Chao Huang graduated and received his Bacheloe's degree, China, at 2016 July.  
 
 <h1> Recent News </h1>
 
