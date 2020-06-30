@@ -14,6 +14,7 @@ Chao Huang is an Ph.D. student (Sep. 01 2019~now) at College of Aeronautics and 
 Advised by Prof. Jie Tian, in the [Institute of Automation, Chinese Academy of Science][Institute of Automation, Chinese Academy of Science] he received Master degree in 2019 July. Chao Huang graduated and received his Bacheloe's degree, China, at 2016 July.  
 
 <h1> Recent News </h1>
+<h3>[paper acceptance] 2020.06:</h3> my latest research of using attention for human-multi UAV teaming in natural disaster rescue has been accepted by the prestigious robotics conference RSS2020 as workshop papers.
 
 [Cognitive Robotics and AI lab]: https://ruiliurobotics.weebly.com
 [Prof. Rui Liu]: https://scholar.google.com/citations?user=wAEi6FUAAAAJ&hl=en&authuser=1
