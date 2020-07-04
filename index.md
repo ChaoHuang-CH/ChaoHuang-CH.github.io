@@ -20,4 +20,4 @@ Advised by Prof. Jie Tian, in the [Institute of Automation, Chinese Academy of S
 [Prof. Rui Liu]: https://scholar.google.com/citations?user=wAEi6FUAAAAJ&hl=en&authuser=1
 [Institute of Automation, Chinese Academy of Science]:http://www.ia.cas.cn
 [BeiHang University]: https://www.buaa.edu.cn
-[Chao Huang]: https://scholar.google.com/citations?user=66ilK0UAAAAJ&hl=en&authuser=1
+[Chao Huang]: https://scholar.google.com/citations?user=eAyqQIMAAAAJ&hl=en
