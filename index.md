@@ -15,6 +15,7 @@ Advised by Prof. Jie Tian, in the [Institute of Automation, Chinese Academy of S
 
 <h1> Recent News </h1>
 <h3>[paper acceptance] 2020.06:</h3> my latest research of using attention for human-multi UAV teaming in natural disaster rescue has been accepted by the prestigious robotics conference RSS2020 as workshop papers.
+<h3>[paper acceptance] 2021.05:</h3> my latest research of using attention-transfer for repairing human-trust in human robot collaboration has been accepted by the 2021 17th IEEE International Conference on Automation Science and Engineering (CASE).
 
 [Cognitive Robotics and AI lab]: https://ruiliurobotics.weebly.com
 [Prof. Rui Liu]: https://scholar.google.com/citations?user=wAEi6FUAAAAJ&hl=en&authuser=1
