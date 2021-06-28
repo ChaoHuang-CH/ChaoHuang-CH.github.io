@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Multi-task and Meta-learning"
-date:   2019-10-27 02:41:36 +0530
+date:   2020-10-27 02:41:36 +0530
 categories: Lecture2
 type: blog
 ---
