@@ -7,7 +7,7 @@ layout: home
 </section>
 
 <h3> Email: </h3> chuang26@kent.edu
-<h3> Phone: </h3> +1 (330) 564 5110
+<h3> Phone: </h3> +1 (234) 327 1330
 
 [Chao Huang][Chao Huang] is an Ph.D. student (Sep. 01 2019~now) at College of Aeronautics and Engineering, Kent State University, Ohio, USA. He is studying in the [Cognitive Robotics and AI lab][Cognitive Robotics and AI lab] (CRAI) for Human-Robot Interaction, Multi-agent Reinforcement Learning and Meta Learning, advised by [Prof. Rui Liu][Prof. Rui Liu]. 
 
