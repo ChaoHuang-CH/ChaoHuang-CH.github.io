@@ -55,7 +55,7 @@ kramdown:
   input: GFM
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
