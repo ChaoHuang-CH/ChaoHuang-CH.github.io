@@ -14,6 +14,7 @@ The goal is to find one optimal policy that maximizes cumulative future reward: 
 The q-learning update uses the following loss function: $L(\theta)=E_{(s,a,r,s') \in U(D)}[(r + \gamma max_{a'}Q(s',a'; \theta') - Q(s,a; \theta))^2]$. 
 
 Experiment environment: Atari 2600 platform.
+
 Metrics: rewards from game.
 
 [paper]:http://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
