@@ -7,7 +7,7 @@ type: blog
 ---
 [paper][paper] tittle: human-level control through deep reinforcement learning.
 
-classification: model-free, off-policy, value-based, continuous state, discrete action space.
+<h3>classification</h3>: model-free, off-policy, value-based, continuous state, discrete action space.
 
 The goal is to find one optimal policy that maximizes cumulative future reward: $Q(s,a)=max_{\pi}E[r_t + \gamma r_{t+1} + \gamma^2 r_{t+2} + ...]$. In this paper, a deep Neural Network was used to approximate the optimal action-value function.
 
